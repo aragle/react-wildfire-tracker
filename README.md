@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# WildFire Tracker
+![wildfire](https://user-images.githubusercontent.com/62181222/202932992-5d458044-ca0c-4225-b447-f5f4ac774aeb.PNG)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
